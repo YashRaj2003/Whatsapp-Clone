@@ -1,0 +1,22 @@
+.top_profile {
+  height: 70px;
+  width: 368px;
+}
+
+.profile_width {
+  width: 368px;
+}
+
+.media_image {
+  height: 68px;
+  width: 90px;
+}
+
+.media_image_height {
+  height: 68px;
+}
+
+.scroollable_area {
+  width: 368px;
+  height: calc(100vh - 70px);
+}

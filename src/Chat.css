@@ -1,0 +1,14 @@
+.top {
+  height: 70px;
+}
+
+.border-chat {
+  border-left: 2px;
+  border-right: 2px;
+  border-bottom: 2px;
+  border-color: rgb(75, 75, 75);
+}
+
+.background_Image {
+  height: calc(100vh - 140px);
+}

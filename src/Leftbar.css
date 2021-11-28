@@ -1,0 +1,24 @@
+.Nav {
+  height: 70px;
+  width: 418px;
+}
+
+.cgat {
+  background-color: rgba(153, 153, 153, 0.479);
+}
+
+.search {
+  height: 60px;
+  width: 418px;
+  top: 60px;
+}
+
+.chat {
+  width: 418px;
+  height: calc(100vh - 130px);
+}
+
+.chat_head {
+  height: 72px;
+  width: 418px;
+}
